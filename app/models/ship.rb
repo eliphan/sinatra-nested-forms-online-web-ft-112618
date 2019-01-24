@@ -15,6 +15,6 @@ SHIPS = {}
   end
   
   def self.clear
-    SHIPS.clear.all
+    SHIPS.clear
   end
 end
